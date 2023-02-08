@@ -1,0 +1,4 @@
+name: FishOptimization
+version: '${project.version}'
+main: me.cactus.fishoptimization.Main
+api-version: 1.19
